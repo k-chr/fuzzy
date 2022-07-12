@@ -1,0 +1,8 @@
+NumPy
+sklearn
+scikit-fuzzy
+ipykernel
+ipython
+jupyter
+pandas
+matplotlib
