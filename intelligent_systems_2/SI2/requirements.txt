@@ -1,0 +1,9 @@
+matplotlib
+numpy
+cupy-cuda101
+scipy
+sklearn
+jupyter
+ipython
+ipykernel
+tqdm
